@@ -4,4 +4,4 @@ The objective of this document is to define the Privacy Policy of the software c
 ***
 ## What information do we need about you?
 ***
-The app needs to request multimedia permissions to access your photos and videos. It is important to mention that we do not save any photos or videos outside of your cell phone. Your photos and videos always remain on your cell phone, photos and videos are never transferred to another location.
+It is important to mention that we do not save any data outside of your cell phone. the data are never transferred to another location.
